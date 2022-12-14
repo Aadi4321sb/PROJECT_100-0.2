@@ -1,0 +1,40 @@
+.copy_right_footer{
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+h1 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+   font-weight: bolder;
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: bold;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: inherit;
+    font-weight: lighter;
+}
+#camera{
+
+    height: 300px;
+    width: 300px;
+}
+
+body{
+    background-color: powderblue;
+}
+
+#Developed{
+
+    font-weight: bolder;
+    color: red;
+}
